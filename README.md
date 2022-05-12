@@ -10,7 +10,7 @@ Does not encrypt anything that is not an alphabetic character `[a-zA-Z]`.
 ## How to run
 
 ```console
-cargo run `input`
+cargo run [input]
 ```
 where `input` is a string.
 
